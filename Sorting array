@@ -1,0 +1,7 @@
+<?php
+$arr = array(4, 2, 8, 1);
+sort($arr);
+
+foreach ($arr as $v)
+    echo $v . " ";
+?>
