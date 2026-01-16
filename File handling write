@@ -1,0 +1,7 @@
+<?php
+$file = fopen("test.txt", "w");
+fwrite($file, "Welcome to PHP");
+fclose($file);
+
+echo "File Written Successfully";
+?>
