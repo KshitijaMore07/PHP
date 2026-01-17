@@ -1,0 +1,7 @@
+<?php
+$str = "Php Language";
+
+echo strtoupper($str);
+echo "<br>";
+echo strtolower($str);
+?>
