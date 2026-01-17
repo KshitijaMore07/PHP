@@ -1,0 +1,4 @@
+<?php
+$str = "PHP is easy to learn";
+echo "Word Count = " . str_word_count($str);
+?>
