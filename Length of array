@@ -1,0 +1,4 @@
+<?php
+$arr = array(5, 10, 15, 20);
+echo "Length = " . count($arr);
+?>
